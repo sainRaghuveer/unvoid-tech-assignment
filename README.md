@@ -3,11 +3,12 @@
 <br>
 
 ## What we will use and what we can do ?
-- this app will be infinite scrolling app that are authenticated app
+- this app is cartoon app where you can see cartoon images and their name
 - for frontend we will use react
 - for maintaining state will will be using redux
 - this will be authenticated app you can't access without username password
 - for example you can use like this credentials
+- you can use any kind of username password that fine it will accept any username password
 ```js
 username=raghuveersain
 password=12345
@@ -98,12 +99,11 @@ npm start
 <img src="https://github.com/sainRaghuveer/face-prep-assignment/assets/112657812/99946b69-2ecd-42e5-a00d-65c3ed5a4873" alt="img"/>
 
 ## When you will put username and password you will be redirected to this home page and if data is loading you will see skeleton
-<img src="" alt="img"/>
 
 <br> 
 
-## This is initial user data you will see it will be data in first go and you can enjoy with your favoriute cartoons
-<img src="https://github.com/sainRaghuveer/unvoid-tech-assignment/assets/112657812/9b8fdc7c-b0ec-4bff-9876-2087d4ec9731" alt="img"/>
+## This is initial cartoon data you will see it will be data in first go and you can enjoy with your favoriute cartoons
+<img src="https://github.com/sainRaghuveer/unvoid-tech-assignment/assets/112657812/dd746047-5fd9-4217-aefc-b29c15595ed3" alt="img"/>
 
 <br>
 
@@ -111,7 +111,8 @@ npm start
 <img src="https://github.com/sainRaghuveer/face-prep-assignment/assets/112657812/90b801ab-f07a-4f31-82b7-41c6d9e575c4" alt="img"/>
 
 
-<br>
+<br>![Screenshot (1019)]()
+
 
 
 
