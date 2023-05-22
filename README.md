@@ -80,7 +80,7 @@ npm start
 <br>
 
 - In this app I have used dummy data and created api for that so here you can see db.json that is deployed on render 
-- This is deployed link as cartoon api that I used in this app it is deplyed on render that is why wnem you use it, it will take some time to fetch the data
+- This is deployed link as cartoon api that I used in this app it is deplyed on render that is why when you use it, it will take some time to fetch the data
  https://cartoon-ofto.onrender.com/cartoon
 ```js
 {
