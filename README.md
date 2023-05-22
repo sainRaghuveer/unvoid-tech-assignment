@@ -102,19 +102,8 @@ npm start
 
 <br> 
 
-## This is initial user data you will see it will be data in first go
-<img src="" alt="img"/>
-
-
-<br>
-
-## this is compatible to every type of screen it will compatible to laptop and tablet and mobile also, you can see here it is compatible for atleast 320*480 sized view port
-<img src="" alt="img"/>
-
-<br>
-
-## you can click on user face to see user information you will get to see your username that you used while logging in and after click on logged in you will be redirected to login page again
-<img src="" alt="img"/>
+## This is initial user data you will see it will be data in first go and you can enjoy with your favoriute cartoons
+<img src="https://github.com/sainRaghuveer/unvoid-tech-assignment/assets/112657812/9b8fdc7c-b0ec-4bff-9876-2087d4ec9731" alt="img"/>
 
 <br>
 
