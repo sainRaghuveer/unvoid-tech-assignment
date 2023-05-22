@@ -48,7 +48,6 @@ npm start
 ```
 - this is how you can start locally in you system at http://localhost:3000
 
-
 <br>
 
 ## Dependencies
@@ -89,7 +88,7 @@ npm start
 <br>
 
 ## Application available in both light and dark theme
-<img src="https://github.com/sainRaghuveer/face-prep-assignment/assets/112657812/f112be92-5a5c-4001-9cf0-0b2d00a870d4" alt="img"/>
+<img src="https://github.com/sainRaghuveer/unvoid-tech-assignment/assets/112657812/c7b32593-5d54-4934-9486-01983dec47e9" alt="img"/>
 
 ## This will be Login form need to login first you can use any kind of username and password but without logged in you can't access anything
 <img src="https://github.com/sainRaghuveer/face-prep-assignment/assets/112657812/99946b69-2ecd-42e5-a00d-65c3ed5a4873" alt="img"/>
@@ -97,7 +96,7 @@ npm start
 <br>
 
 ## If you will try to login without giving username and password or if you will try to login it will show you this type of error
-<img src="https://github.com/sainRaghuveer/face-prep-assignment/assets/112657812/99946b69-2ecd-42e5-a00d-65c3ed5a4873" alt="img"/>
+<img src="https://github.com/sainRaghuveer/unvoid-tech-assignment/assets/112657812/7a0a49ad-f9a0-4c0e-ab75-fe1d0d04a147" alt="img"/>
 
 ## When you will put username and password you will be redirected to this home page and if data is loading you will see skeleton
 
@@ -109,7 +108,7 @@ npm start
 <br>
 
 ## If you will try to go any other route that are not present in application you will get to see 404 page
-<img src="https://github.com/sainRaghuveer/face-prep-assignment/assets/112657812/90b801ab-f07a-4f31-82b7-41c6d9e575c4" alt="img"/>
+<img src="https://github.com/sainRaghuveer/unvoid-tech-assignment/assets/112657812/d28a8523-4f9d-45ed-b7f3-a8e80d6f75c5" alt="img"/>
 
 
 <br>![Screenshot (1019)]()
