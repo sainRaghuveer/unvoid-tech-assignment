@@ -91,7 +91,6 @@ npm start
 <img src="https://github.com/sainRaghuveer/unvoid-tech-assignment/assets/112657812/c7b32593-5d54-4934-9486-01983dec47e9" alt="img"/>
 
 ## This will be Login form need to login first you can use any kind of username and password but without logged in you can't access anything
-<img src="https://github.com/sainRaghuveer/face-prep-assignment/assets/112657812/99946b69-2ecd-42e5-a00d-65c3ed5a4873" alt="img"/>
 
 <br>
 
