@@ -12,6 +12,7 @@
 ```js
 username=raghuveersain
 password=12345
+
 ```
 - other than that you can use your own credentials but you have to login first then you can use this app
 - this app will have two route one is default login route
@@ -102,7 +103,7 @@ npm start
 <br> 
 
 ## This is initial user data you will see it will be data in first go
-<img src="" alt="img"/>
+<img src="https://github.com/sainRaghuveer/unvoid-tech-assignment/assets/112657812/88863574-499e-44b2-858a-e25d0c20bd1e" alt="img"/>
 
 
 <br>
