@@ -79,6 +79,166 @@ npm start
 
 <br>
 
+- In this app I have used dummy data and created api for that so here you can see db.json that is deployed on render 
+- This is deployed link as cartoon api that I used in this app it is deplyed on render that is why wnem you use it, it will take some time to fetch the data
+ https://cartoon-ofto.onrender.com/cartoon
+```js
+{
+  "cartoon": [
+    {
+      "id": 1,
+      "title": "Mickey Mouse",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Mickey_Mouse_Disney_1.webp"
+    },
+    {
+      "id": 2,
+      "title": "Tom & Jerry",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Tom_and_Jerry_-_MP.webp"
+    },
+    {
+      "id": 3,
+      "title": "Bugs Bunny",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Bugs_bunny.webp"
+    },
+    {
+      "id": 4,
+      "title": "SpongeBob Square Pants",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/SpongeBob_stock_art-400x400"
+    },
+    {
+      "id": 5,
+      "title": "Homer J. Simpson",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Homer_Simpson.webp"
+    },
+    {
+      "id": 6,
+      "title": "Donald Duck",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Donald_Duck_Iconic-327x450.webp"
+    },
+    {
+      "id": 7,
+      "title": "Scooby-Doo and Shaggy Rogers",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Scooby_and_Shaggy-710x400.webp"
+    },
+    {
+      "id": 8,
+      "title": "Daffy Duck",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Sheldon.webp"
+    },
+    {
+      "id": 9,
+      "title": "Pikachu",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Road_Runner__1_-removebg-preview-310x510.png"
+    },
+    {
+      "id": 10,
+      "title": "Road Runner ",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Mickey_Mouse_Disney_1.webp"
+    },
+    {
+      "id": 11,
+      "title": "Fred Flintstone",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Fred.webp"
+    },
+    {
+      "id": 12,
+      "title": "Goofy",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Goofy_transparent.webp"
+    },
+    {
+      "id": 13,
+      "title": "Popeye, the sailor man",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/image-removebg-preview.png"
+    },
+    {
+      "id": 14,
+      "title": "Woody Woodpecker",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/9B0CF932-B823-44BF-84B2-257263D63E61.webp"
+    },
+    {
+      "id": 15,
+      "title": "Tweety Bird",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Tweety_SVG.png"
+    },
+    {
+      "id": 16,
+      "title": "The Powerpuff Girls",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/V.webp"
+    },
+    {
+      "id": 17,
+      "title": "Eric Cartman (South Park)",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Eric-cartman-554x510.webp"
+    },
+    {
+      "id": 18,
+      "title": "Garfield",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/GarfieldCharacter-657x1024.webp"
+    },
+    {
+      "id": 19,
+      "title": "Taz",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Classic-Taz.webp"
+    },
+    {
+      "id": 20,
+      "title": "Elmer Fudd",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Fudd.webp"
+    },
+    {
+      "id": 21,
+      "title": "Marvin the Martian",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/766551BC-31DE-4FDA-BB5E-7ABB65B057ED-296x510.webp"
+    },
+    {
+      "id": 22,
+      "title": "The Pink Panther",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/PInky.webp"
+    },
+    {
+      "id": 23,
+      "title": "Felix, the Cat",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/302900_231781686889200_1784968778_n.PNG.webp"
+    },
+    {
+      "id": 24,
+      "title": "Johnny Bravo",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Johnnyb001.webp"
+    },
+    {
+      "id": 25,
+      "title": "Dexter",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/DexterS1-2.webp"
+    },
+    {
+      "id": 26,
+      "title": "Winnie the Pooh",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Profile_-_Winnie_the_Pooh.webp"
+    },
+    {
+      "id": 27,
+      "title": "Sylvester The Cat      ",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Sylvester_the_Cat_SVG.png"
+    },
+    {
+      "id": 28,
+      "title": "Stewie Griffin      ",
+      "image":"https://www.animaker.com/hub/wp-content/uploads/2023/03/FamilyGuy_Single_StewieBackpack_R7-409x510.webp"
+    },
+    {
+      "id": 29,
+      "title": "Space Ghost",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/03/Space_Ghost.webp"
+    },
+    {
+      "id": 30,
+      "title": "He-Man:",
+      "image": "https://www.animaker.com/hub/wp-content/uploads/2023/04/HeMan.webp"
+    }
+  ]
+}
+```
+
 
 # Screenshot
 - here is screenshot you can see
