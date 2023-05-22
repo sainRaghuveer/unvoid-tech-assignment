@@ -109,7 +109,6 @@ npm start
 <br>
 
 ## this is compatible to every type of screen it will compatible to laptop and tablet and mobile also, you can see here it is compatible for atleast 320*480 sized view port
-<img src="" alt="img"/>
 
 <br>
 
