@@ -83,7 +83,8 @@ npm start
 # Screenshot
 - here is screenshot you can see
 ## This will be default Route if anyone wants to access home page need to authenticate
-<img src="https://github.com/sainRaghuveer/face-prep-assignment/assets/112657812/5bcd10f5-b998-4d87-865a-21a468a75672" alt="img"/>
+
+<img src="https://github.com/sainRaghuveer/unvoid-tech-assignment/assets/112657812/9d078ca1-6534-496c-9409-45ad21876bf6" alt="img"/>
 
 <br>
 
